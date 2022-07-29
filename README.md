@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://github.com/vitorinoguilherme/vitorinoguilherme">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorinoguilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&border_color=58A6FF" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorinoguilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=58A6FF" />
   </a>
   <a href="https://github.com/vitorinoguilherme/vitorinoguilherme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorinoguilherme&show_icons=true&theme=tokyonight&layout=compact&langs_count=7&exclude_repo=ifsp-pdwel-project,ifsp-pdwel&border_color=58A6FF" />
