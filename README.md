@@ -7,8 +7,8 @@
 
 </div>
 
-- 📘 Graduation Student of Systems Analysis and Development, at Instituto Federal de Educação, Ciência e Tecnologia - São Paulo.  
-- 🚀 I studied the course at Rocketseat Bootcamp GoStack. 
+- 📘 Bachelor of Systems Analysis and Development, at Instituto Federal de Educação, Ciência e Tecnologia - São Paulo; 
+- 🚀 I studied the course at Rocketseat Bootcamp GoStack;
 - 💻 I'm always learning, focused in the MERN stack and JavaScript ecosystem. 
 
 <div align="center">
