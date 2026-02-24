@@ -3,14 +3,12 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
   </h2>
   <hr>
-  <h3 align="center"><strong>Software Developer</strong></h3>
+  <h3 align="center"><strong>Software Engineer | Full Stack Developer</strong></h3>
 
 </div>
 
 - 📘 Bachelor of Systems Analysis and Development, at Instituto Federal de Educação, Ciência e Tecnologia - São Paulo; 
 - 🚀 I studied the course at Rocketseat Bootcamp GoStack;
-- 💻 I'm always learning, focused in the MERN stack and JavaScript ecosystem. 
-
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
