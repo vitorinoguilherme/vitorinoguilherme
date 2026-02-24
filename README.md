@@ -1,20 +1,29 @@
 <div>
-  <h2 align="center">Hi everyone, I'm Guilherme Vitorino
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
-  </h2>
-  <hr>
+  <h2 align="center">Hi everyone, I'm Guilherme Vitorino</h2>
+  
   <h3 align="center"><strong>Software Engineer | Full Stack Developer</strong></h3>
+  
+  <p align="center">
+  Building and evolving high-criticality systems used by thousands of users.<br/>
+  Strong focus on backend architecture, scalability, and clean code.
+  </p>
 
 </div>
 
-- 📘 Bachelor of Systems Analysis and Development, at Instituto Federal de Educação, Ciência e Tecnologia - São Paulo; 
-- 🚀 I studied the course at Rocketseat Bootcamp GoStack;
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
-  <img src="https://img.shields.io/badge/-Rocketseat-blueviolet?style=for-the-badge" target="_blank">
+  
 </div>
+
+## 🚀 About Me
+
+- 💼 **6+ years** of experience working with **production systems**, including **high-criticality government platforms**
+- 🧠 Strong background in **backend architecture, domain rules, performance and system evolution**
+- 🤝 Acts as **technical reference**, supporting architectural decisions, code reviews and mentoring
+- 🔁 Experience modernizing **legacy systems** and integrating with business stakeholders
+
 
 --- 
 <div align="center">
