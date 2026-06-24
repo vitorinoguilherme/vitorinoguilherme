@@ -2,10 +2,10 @@
 
 # Hi, I'm Guilherme Vitorino 👋
 
-### Software Engineer · Systems Architecture · AI-Enhanced Development
+### Backend Engineer · Full Stack | Node.js · Java · Spring Boot · NestJS | Next.js · Angular · React | Microservices | AI-Assisted Dev
 
 <p>
-Full stack software engineer with 6+ years in critical production systems — backend and frontend — across the Node.js/NestJS and Java/Spring Boot ecosystems. I build REST APIs and microservices and act as a technical reference in software architecture: defining standards, leading legacy-to-microservices migrations, and reducing structural technical debt, including strategic projects for the Government of the State of São Paulo via PRODESP. Increasingly apply AI-assisted development day to day. Work directly with stakeholders from discovery to delivery, focused on scalability, maintainability, and sustainable software evolution.
+Full stack software engineer with 6+ years in high-scale critical production systems — backend and frontend. I work across the Node.js/NestJS and Java/Spring Boot ecosystems building REST APIs and microservices, and also on the frontend with Angular and React. Technical reference in software architecture: defining standards, leading legacy-to-microservices migrations, and reducing structural technical debt, with strategic projects for the Government of the State of São Paulo via PRODESP. I apply AI-assisted development (Claude Code, Opencode, context engineering) day to day.
 </p>
 
 <br/>
@@ -29,12 +29,12 @@ Full stack software engineer with 6+ years in critical production systems — ba
 
 ## 🚀 About Me
 
-- 💼 **6+ years** building and maintaining **production-grade systems**
-- 🏛️ Experience with **high-criticality government platforms** (PRODESP / Gov. SP)
-- 🧠 Strong background in **backend architecture**, scalability, performance optimization, and system evolution
+- 💼 **6+ years** in high-scale **critical production systems** — backend and frontend
+- 🏛️ Strategic projects for **high-criticality government platforms** (PRODESP / Gov. SP)
+- 🧠 **Software architecture**: technical standards, legacy-to-microservices migrations, structural debt reduction
 - 🤝 Technical reference for architectural decisions, **code reviews**, and mentoring developers
-- 🔁 Experience modernizing legacy systems and integrating with business stakeholders
-- 🚀 Passionate about **Clean Code**, Developer Experience, **AI Engineering**, and DevOps & Cloud Infrastructure
+- 🔁 Tech-agnostic mindset — Go, Rust, Node.js, or Java are tools; what matters is the **solution design**
+- 🤖 AI-assisted development: **Claude Code**, **Opencode**, context engineering and LLMs
 
 ---
 
