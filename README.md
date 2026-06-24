@@ -5,7 +5,7 @@
 ### Software Engineer · Systems Architecture · AI-Enhanced Development
 
 <p>
-Full stack software engineer with 6+ years in critical production systems — backend and frontend. Strong expertise in Node.js, NestJS, TypeScript, and building REST APIs and microservices, with strategic projects for the Government of the State of São Paulo via PRODESP. Technical reference in software architecture: defined technical standards, led migration of legacy systems to microservices, and reduced structural technical debt. Work directly with stakeholders in defining solutions — from discovery to delivery — focused on scalability, maintainability, and sustainable software evolution.
+Full stack software engineer with 6+ years in critical production systems — backend and frontend — across the Node.js/NestJS and Java/Spring Boot ecosystems. I build REST APIs and microservices and act as a technical reference in software architecture: defining standards, leading legacy-to-microservices migrations, and reducing structural technical debt, including strategic projects for the Government of the State of São Paulo via PRODESP. Increasingly apply AI-assisted development day to day. Work directly with stakeholders from discovery to delivery, focused on scalability, maintainability, and sustainable software evolution.
 </p>
 
 <br/>
@@ -63,6 +63,7 @@ Full stack software engineer with 6+ years in critical production systems — ba
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" title="HTML5" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" title="CSS3" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" title="Material UI" alt="Material UI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" title="Tailwind CSS" alt="Tailwind CSS"/>
 
 <br/><br/>
 
@@ -72,6 +73,15 @@ Full stack software engineer with 6+ years in critical production systems — ba
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL" alt="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" title="Redis" alt="Redis"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" title="MongoDB" alt="MongoDB"/>
+
+<br/><br/>
+
+### Testing
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" title="Jest" alt="Jest"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="50" title="JUnit" alt="JUnit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="50" title="Playwright" alt="Playwright"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="50" title="Vitest" alt="Vitest"/>
 
 <br/><br/>
 
