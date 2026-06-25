@@ -5,7 +5,7 @@
 ### Backend Engineer · Full Stack | Node.js · Java · Spring Boot · NestJS | Next.js · Angular · React | Microservices | AI-Assisted Dev
 
 <p>
-Full stack software engineer with 6+ years in high-scale critical production systems — backend and frontend. I work across the Node.js/NestJS and Java/Spring Boot ecosystems building REST APIs and microservices, and also on the frontend with Angular and React. Technical reference in software architecture: defining standards, leading legacy-to-microservices migrations, and reducing structural technical debt, with strategic projects for the Government of the State of São Paulo via PRODESP.
+Full stack software engineer with 6+ years in high-scale critical production systems — backend and frontend. I work across the Node.js/NestJS and Java/Spring Boot ecosystems building REST APIs and microservices, and also on the frontend building interfaces with Angular, React, and Next.js. Technical reference in software architecture: defining standards, leading legacy-to-microservices migrations, and reducing structural technical debt, with strategic projects for the Government of the State of São Paulo via PRODESP.
 </p>
 
 <br/>
@@ -91,6 +91,7 @@ Full stack software engineer with 6+ years in high-scale critical production sys
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" title="Google Cloud Platform (GCP)" alt="Google Cloud Platform (GCP)"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" title="AWS" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git" alt="Git"/>
 
 
 </div>
